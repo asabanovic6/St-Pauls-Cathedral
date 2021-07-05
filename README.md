@@ -11,4 +11,4 @@ https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/HowAPPWorks.mp4
 
 ## 3D Modeli kreirani pomoću Blendera
 
-![image 1](https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/Renderi/render3.jpg)
+![image 1](https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/Renderi/render3.jpg | width=100)
