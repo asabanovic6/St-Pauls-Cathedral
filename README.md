@@ -13,6 +13,12 @@ https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/HowAPPWorks.mp4
 
 <img src="https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/Renderi/render4.jpg" width="600" height="400">
 
+<img src="https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/Renderi/render2.png" width="600" height="400">
+
+<img src="https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/Renderi/render1.png" width="600" height="400">
+
+<img src="https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/Renderi/render5.jpg" width="600" height="400">
+
 <img src="https://github.com/asabanovic6/St-Pauls-Cathedral/blob/main/Renderi/render3.jpg" width="600" height="400">
 
 
